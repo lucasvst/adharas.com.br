@@ -1,0 +1,38 @@
+#main-logo {
+	display: block;
+	background: url(../images/logo.png) center no-repeat;
+	background-size: contain;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 150px;
+	height: 150px;
+	text-indent: -9999px;
+}
+
+.affix #main-logo {
+	width: 64px;
+	height: 46px;
+	background-size: 64px 64px;
+	background-position: top;
+	margin-top: 3px;
+}
+
+
+/*==========  A Clinica  ==========*/
+
+/*==========  Missao  ==========*/
+#missao-visao-valores {
+
+	.item {
+
+		text-align: center;
+
+		h3 {}
+	}
+}
+
+/*==========  Footer  ==========*/
+footer.footer {
+
+	margin-top: 70px;
+}
